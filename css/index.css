@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+header {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 20px;
+    
+    padding: 30px;
+    height: 20px;
+    background: coral;
+   
+}
+
+header:hover {
+
+    background: rebeccapurple;
+
+}
+
+.titulo {
+
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    color: brown;
+}
+
+.titulo-2 img {
+
+    width: 100%;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+
+
+}
+
+nav a:hover {
+
+    color: white;
+
+}
+
+.parrafo p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    width: 100%;
+}
+.imagen img {
+
+width: 100%;
+
+}
+.Redes-Sociales img{
+   
+    justify-content: left;
+    margin-bottom: 10px;
+    
+ 
+}
+
+.Redes-Sociales h2{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.Redes-Sociales{
+
+    background-color: rgb(142, 142, 248);
+}
+
+
+
